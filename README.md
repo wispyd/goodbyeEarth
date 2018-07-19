@@ -1,0 +1,2 @@
+# goodbyeEarth
+Initial place
